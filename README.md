@@ -22,3 +22,21 @@ flowchart LR
 
     LLM --> API --> U
 
+
+**Tech Stack**
+
+# Backend
+Python
+FastAPI
+LangGraph (workflow orchestration)
+FAISS (vector similarity search)
+Embedding models + LLM APIs
+
+# Frontend
+Gradio
+
+**Future Improvements**
+
+1. Citation extraction and source tracing
+2. Multi-document reasoning improvements
+3. Streaming responses for better UX
