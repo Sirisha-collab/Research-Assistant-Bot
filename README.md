@@ -25,14 +25,10 @@ flowchart LR
 
 **Tech Stack**
 
-# Backend
-Python
-FastAPI
-LangGraph (workflow orchestration)
-FAISS (vector similarity search)
-Embedding models + LLM APIs
+### Backend
+Python, FastAPI, LangGraph (workflow orchestration), FAISS (vector similarity search), Embedding models + LLM APIs
 
-# Frontend
+### Frontend
 Gradio
 
 **Future Improvements**
