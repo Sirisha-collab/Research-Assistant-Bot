@@ -1,5 +1,5 @@
 # Research-Assistant-Bot
-A system designed to help users explore, understand, and retrieve information from research papers and document collections using modern AI workflows.
+Imagine a smart research assistant that helps people find answers from a large collection of papers and documents. It reads and understands the information, then helps users quickly explore, search, and discover useful insights without manually going through every document.
 
 **Overview**
 
